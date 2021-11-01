@@ -12,7 +12,7 @@ eureka:
     service-url:
       defaultZone: http://admin:admin@localhost:8100/eureka/
 data:
-  message: '{cipher} fab37dc0db1d84f6805fdcb7d83d7f1d24be407fc804b9fcd466e670aa7e6114'
+  message: '{cipher} 2b75c88bda0297379389d15773d91f50ef22df767e348b5da5434b705d19aae7'
 management:
   endpoints:
     web:
