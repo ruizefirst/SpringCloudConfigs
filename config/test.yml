@@ -1,6 +1,11 @@
 spring:
   application:
     name: test
+  cloud: 
+    bus: 
+      enabled: true
+      trace: 
+        enable: true
 server:
   port: 9999
 eureka:
