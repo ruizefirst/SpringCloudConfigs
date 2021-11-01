@@ -17,7 +17,7 @@ eureka:
     service-url:
       defaultZone: http://admin:admin@localhost:8100/eureka/
 data:
-  message: testTT123
+  message: testT
 management:
   endpoints:
     web:
