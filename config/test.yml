@@ -7,7 +7,7 @@ spring:
       trace: 
         enable: true
 server:
-  port: 9999
+  port: 8103
 eureka:
   client:
     healthcheck:
